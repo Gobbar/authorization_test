@@ -1,6 +1,10 @@
 import socket
 import json
 
+
+#test text
+
+
 def client_program(): 
     host = socket.gethostname() # as both code is running on same pc 
     port = 5001 # socket server port number 
